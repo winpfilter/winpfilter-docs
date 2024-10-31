@@ -10,7 +10,7 @@
 * Installation guide
 
 ## For Developers
-* winpfilter development guidelines
+* [winpfilter module development guidelines](/module_dev/)
 * winpfilter framework developer manual
 
 # Donation
